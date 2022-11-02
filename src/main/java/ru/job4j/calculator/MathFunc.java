@@ -6,7 +6,6 @@ public class MathFunc {
     }
 
     public static void main(String[] args) {
-        int result3 = MathFunc.func1(100);
-        System.out.println(result3);
+        System.out.println(MathFunc.func1(100));
     }
 }
